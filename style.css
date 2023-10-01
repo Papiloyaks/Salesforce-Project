@@ -1,0 +1,555 @@
+body {
+    overflow-x: hidden;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+
+  .main {
+    color: rgb(10, 10, 105);
+    position: relative;
+    left: -80px;
+  }
+
+
+  .main:hover {
+    color: rgb(51, 51, 233);
+  }
+
+  .major {
+    color: rgb(10, 10, 105);
+    margin-left: 0px;
+  }
+  #papi{
+    margin-left: -30%;
+  }
+  #no{
+    margin-left: 30px;
+    width: 30px;
+    height: 40px;
+    color: blue;
+  }
+
+  #me {
+    text-decoration: underline;
+    
+  }
+
+
+  .major:hover {
+    color: rgb(51, 51, 233);
+  }
+
+  .pad {
+    margin-left: 100px;
+  }
+
+  #mix {
+    width: 130px;
+    height: 45px;
+    color: green;
+    margin-left: 20px;
+  }
+
+  #mix:hover {
+    background-color: black;
+  }
+
+  .ware {
+    position: absolute;
+    left: 40%;
+    top: 100%;
+    font-weight: bold;
+  }
+
+  .analizer {
+    color: rgb(10, 10, 105);
+    font-size: 52px;
+    padding-left: -50px;
+  }
+
+  /* .hit {} */
+
+  #golf {
+    margin-top: 100px;
+    margin-left: 10px;
+
+  }
+
+  .ware {
+    position: absolute;
+    top: 98%;
+    color: rgb(10, 10, 105);
+
+  }
+
+  #one {
+    background-color: rgb(42, 42, 248);
+    width: 200px;
+    height: 60px;
+  }
+
+  #tot {
+    width: 200px;
+    height: 60px;
+  }
+
+  #one:hover {
+    background-color: rgb(10, 10, 105);
+  }
+
+  #two {
+    background-color: white;
+    color: blue;
+  }
+
+  #two:hover {
+    color: black;
+    background-color: white;
+  }
+
+  #three {
+    width: 110px;
+    height: 45px;
+    position: relative;
+    left: 10%;
+  }
+
+  #see {
+    text-decoration: underline;
+    color: rgb(10, 10, 105);
+  }
+
+  #see:hover {
+    color: rgb(42, 42, 248);
+  }
+
+  .edge {
+    /* width: 23%; */
+    position: fixed;
+    right: 40px;
+    top: 60%;
+    z-index: 1;
+    background-color: rgb(42, 42, 248);
+
+  }
+
+  .pix {
+    position: relative;
+    left: 13%;
+  }
+
+  #ss {
+    color: red important;
+  }
+
+  .hall {
+    position: fixed;
+    top: 0%;
+    z-index: 1;
+    width: 100vw;
+  }
+
+  a {
+    text-decoration: none;
+  }
+
+  .four,
+  .five,
+  .six {
+    text-decoration: underline;
+    color: rgb(10, 10, 105);
+  }
+
+  .seven {
+    color: rgb(10, 10, 105);
+    margin-left: 250px;
+  }
+
+  .eight,
+  .product {
+    margin-left: 100px;
+    color: rgb(10, 10, 105);
+  }
+
+  .sales,
+  .service {
+    margin-left: 120px;
+    color: rgb(10, 10, 105);
+  }
+
+  .single {
+    margin-left: 100px;
+  }
+
+  .with {
+    margin-left: 70px;
+  }
+
+  .love {
+    margin-left: 120px;
+
+  }
+
+  .deliver-1 {
+    margin-left: 100px;
+
+  }
+
+  .watch {
+    color: rgb(10, 10, 105);
+    text-decoration: underline;
+    margin-left: 100px;
+  }
+
+  .watch-1 {
+    color: rgb(10, 10, 105);
+    text-decoration: underline;
+    margin-left: 72px;
+  }
+
+  .watch-2 {
+    color: rgb(10, 10, 105);
+    text-decoration: underline;
+    margin-left: 80px;
+  }
+
+  .watch-3 {
+    color: rgb(10, 10, 105);
+    text-decoration: underline;
+    margin-left: 70px;
+  }
+
+  .ape {
+    color: rgb(10, 10, 105);
+  }
+
+  .ape:hover {
+    color: rgb(42, 42, 248);
+  }
+
+  .mare {
+    color: rgb(10, 10, 105);
+    margin-left: 400px;
+    margin-top: 20px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+  }
+
+  .sid {
+    text-decoration: underline;
+    color: rgb(10, 10, 105);
+  }
+
+  .sid:hover {
+    color: rgb(42, 42, 248);
+  }
+  #key {
+    width: 200px;
+    height: 60px;
+    position: absolute;
+    left: 41%;
+  }
+  #key:hover {
+    color: rgb(10, 10, 105);
+    
+  }
+  .apex{
+    color: rgb(10, 10, 105);
+  }
+  .apex:hover {
+    color: rgb(42, 42, 248);
+  }
+  #demo {
+    width: 100px;
+    margin-left: 20px;
+    background-color: aquamarine;
+    border-radius: 20%;
+    border: 0px solid;
+  }
+  #ima {
+    width: 80px;
+    height: 80px;
+    margin-left: 100px;
+    margin-top: -10px;
+  }
+  .side {
+    text-decoration: underline;
+    color: rgb(10, 10, 105);
+  }
+  #mixx {
+    color: rgb(10, 10, 105);
+    background-color: white;
+
+  }
+  #mixx { 
+    width: 200px;
+    height: 50px;
+    /* margin-left: 600px; */
+    margin-top: 30px;
+    color: blue;
+
+  }
+  #mixx:hover {
+    color: rgb(2, 2, 27);
+  }
+
+
+
+.max {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  padding: 150px;
+  gap: 100px;
+  margin-left: 200px;
+  width: 20px;
+  margin-top:-30px;
+}
+.item {
+  border: 1px solid white;
+  border-radius: 100%;
+  width: 80px;
+  height: 80px;
+  padding: 30%;
+  box-shadow: 1px 0px 7px 0px black; 
+}
+  .finance {
+    color: indigo;
+    margin-left: -20px;
+    margin-top: 20px;
+    font-weight: bold;
+}
+  .finance:hover {
+    color: blue;
+  } 
+  .retail {
+    color: indigo;
+    font-weight: bold;
+    margin-left: -10px;
+    margin-top: 20px;
+  }
+  .retail:hover {
+    color: blue;
+  }
+  .health {
+    color: indigo;
+    margin-left: -20px;
+    margin-top: 20px;
+    font-weight: bold;
+  }
+  .health:hover {
+    color: blue;
+  }
+  .manufacture {
+    color: indigo;
+    font-weight: bold;
+    margin-left: -20px;
+    margin-top: 20px;
+  }
+  .manufacture:hover {
+    color: blue;
+  }
+  #see-2 {
+    position: absolute;
+    top: 290%;
+    z-index: -1;
+  }
+  #smart {
+    border: 0px solid;
+    width: 220px;
+    height: 90px;
+    box-shadow: 1px 0px 7px 0px black;
+    /* margin-left: 100px; */
+    border-radius: 10px;
+    padding: 20px;
+  }
+  #FI {
+    border: 0px solid;
+    width: 220px;
+    height: 90px;
+    box-shadow: 1px 0px 7px 0px black;
+    border-radius: 10px;
+    /* margin-left: -15px; */
+    padding: 20px;
+  }
+  #web {
+    border: 0px solid;
+    width: 220px;
+    height: 90px;
+    border-radius: 10px;
+    box-shadow: 1px 0px 7px 0px black;
+    /* margin-left: -90px; */
+    padding: 20px;
+  }
+  #casys {
+    border: 0px solid;
+    width: 220px;
+    height: 90px;
+    box-shadow: 1px 0px 7px 0px black;
+    border-radius: 10px;
+    /* margin-left: -170px; */
+    padding: 20px;
+  }
+  #ono {
+    background-color: rgb(42, 42, 248);
+    width: 200px;
+    height: 60px;
+  }
+  #ono:hover {
+    background-color: rgb(10, 10, 105);
+  }
+.card {
+  border: 0px solid;
+  border-radius: 20px;
+}
+.fix {
+  border: 0px solid;
+  border-radius: 20px;
+}
+.fax {
+  border-top-right-radius: 20px;
+  border-top-left-radius: 20px;
+}
+
+#dell-1 {
+  color: rgb(10, 10, 105);
+  margin-left: 15px;
+  margin-top: 30px;
+  width: 100px;
+  border: 0px ;
+  border-radius: 20px;
+}
+
+#dell-2 {
+  color: rgb(10, 10, 105);
+  margin-left: 15px;
+  margin-top: 30px;
+  width: 100px;
+  border: 0px ;
+  border-radius: 20px;
+}
+
+#dell-3 {
+  color: rgb(10, 10, 105);
+  margin-left: 15px;
+  margin-top: 30px;
+  width: 100px;
+  border: 0px ;
+  border-radius: 20px;
+}
+.side {
+  text-decoration: underline;
+  color: rgb(10, 10, 105);
+ 
+  position: absolute;
+  top: 87%;
+  
+}
+
+.side:hover {
+  color: rgb(42, 42, 248);
+}
+#page {
+    position: absolute;
+    top: 600%;
+    z-index: -1;
+  }
+.ddd {
+  border-top-right-radius: 20px;
+  border-top-left-radius: 20px;
+}
+.eee {
+  border-top-right-radius: 20px;
+  border-top-left-radius: 20px;
+}
+.fff {
+  border-top-right-radius: 20px;
+  border-top-left-radius: 20px;
+}
+
+
+#ddd-1 {
+  color: rgb(10, 10, 105);
+  margin-left: 15px;
+  margin-top: 30px;
+  width: 100px;
+  border: 0px ;
+  border-radius: 20px;
+}
+
+#eee-2 {
+  color: rgb(10, 10, 105);
+  margin-left: 15px;
+  margin-top: 30px;
+  width: 170px;
+  border: 0px ;
+  border-radius: 20px;
+}
+
+#fff-3 {
+  color: rgb(10, 10, 105);
+  margin-left: 15px;
+  margin-top: 30px;
+  width: 100px;
+  border: 0px ;
+  border-radius: 20px;
+}
+.choose {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  gap: 50px;
+  width: 100%;
+  padding-top: 100px;
+}
+.oig {
+  width: 130%;
+  height: 80%;
+  font-size: small;
+ color: black;
+}
+.sss {
+  margin-top: 50px;
+  padding-left: 20px;
+}
+.uuu {
+  padding-left: 20px;
+  font-weight: bold;
+}
+.lll {
+  padding-left: 20px;
+}
+#zed {
+  background-color: rgb(3, 46, 97);
+  
+}
+.tower {
+  font-size: 12px;
+  color: white;
+  margin-left: 20px;
+}
+#fic {
+  text-decoration: underline;
+}
+#fic:hover {
+  color: white;
+}
+
+#fict:hover {
+  color: white;
+}
+#pas {
+  display: flex;
+  justify-content: space-around;
+  text-decoration: underline;
+  color: rgb(1, 118, 211);
+  font-size: 12px;
+  margin-left: 180px;
+  margin-right: 100px;
+  margin-top: 10px;
+}
+#league {
+  background-color: rgb(3, 46, 97);
+}
+.apple {
+  padding-top: 250px;
+}

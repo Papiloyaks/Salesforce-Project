@@ -1,0 +1,94 @@
+@media(max-width: 600px) {
+    .max {
+        display: grid;
+        grid-template-columns: 1fr;
+        padding: 50px;
+        gap: 100px;
+        margin-left: 50px;
+        width: 20px;
+        margin-top:-30px;  
+      }
+      #see-2 {
+        position: absolute;
+        top: 290%;
+        z-index: -1;
+        display: none;
+      }
+      .finance {
+        color: indigo;
+        margin-left: -20px;
+        margin-top: 20px;
+        font-weight: bold;  
+      }
+      #git {
+        width: 100%;    
+      }
+      #jug {
+        width: 90%;
+        margin: 20px;
+      }
+      #typ {
+        padding-left: 50px;
+      }
+      .retail {
+        color: indigo;
+        margin-left: -20px;
+        margin-top: 20px;
+        font-weight: bold;
+      }
+      .health {
+        color: indigo;
+        margin-left: -20px;
+        margin-top: 20px;
+        font-weight: bold;
+      }
+      .manufacture {
+        color: indigo;
+        margin-left: -20px;
+        margin-top: 20px;
+        font-weight: bold;
+      }
+      .choose {
+        display: none
+      }
+      .tower {
+        font-size: 12px;
+        color: white;
+        width: 60%;
+      }
+      #pas {
+        justify-content: space-around;
+        text-decoration: underline;
+        color: rgb(1, 118, 211);
+        font-size: 12px;
+        margin-left: 0px;
+        padding: 0px;
+        gap: 0px;
+        margin-top: 10px;
+        width: 90%;
+        margin-left: 20px;
+      }
+      #watt {
+        width: 100%;
+      
+      }
+      .edge {
+   
+        display: none;    
+      }
+      #ttt {
+        width: 100%;
+      }
+      #page {
+      display: none;
+      }
+      #zed {
+        background-color: rgb(3, 46, 97);
+        width: 100%;
+      }
+      #league {
+        background-color: rgb(3, 46, 97);
+        width: 100%;
+      }
+}
+
